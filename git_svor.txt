@@ -27,3 +27,12 @@
 
 6.
 	Að mínu mati ættiru aðeins að gera commit þegar þú hefur gert einhverjar stórar breytingar og 	hafa þá allar littlu breytingarnar með því. Þá ertu ekki alltaf að gera commits og hefur 		betra skipulag á því finnst mér.
+
+7.
+	Working directory er directory-ið sem heldur source code-inum undir GIT stjórn eftir að maður 	er búinn að commita það.
+	Staging area er þegar þú ert búinn að breyta kóðanum en átt eftir að commita það inn á GIT.
+	Repository er það sem kóðinn er geymdur í eftir að maður hefur sett hann inn á GIT.
+
+8.
+	Greinar eða branches eru hentugar þegar þú villt athuga hvort eitthvað virki en ekki stofna 		kóðanum í hættu.
+ 
