@@ -1,1 +1,38 @@
-Git spurningar og svör
+﻿Git spurningar og svör
+
+1.
+	a. Skipunin cd er notuð til þess að fara inní möppur.
+	b. skipunin cd ~ er notuð til þess að fara til baka í rótina sama hvar þú ert.
+	c. skipunin ls er notuð til þess að sýna hvað er í möppunni sem er valin.
+	d. skipunin pwd er notuð til þess að sýna hvaða mappa er valin og leiðina í hana.
+	e. skipunin mkdir (make directory) er notuð til þess að búa til nýja möppu.
+
+
+2.
+	a. git clone er notað til þess að afrita heilt repository.
+	b. git log er notað til þess að sýna commit logs.
+	c. git status er notað til þess að sýna vinnandi tree status.
+	d. git diff er notað til að sýna breytur á milli commits, commit og working tree.
+	e. git checkout er notað til þess að skipta um branchess eða restora working tree files.
+
+3.
+	a. git diff er notað til að sýna breytur á milli commits, commit og working tree.
+	b. git diff --staged er notað til þess að sýna muninn á files sem er búið að stage-a bæði 		fyrir og eftir það var stage-að.
+	c. git diff commit1 commit2 er notað til að sjá muninn á 1 og 2.
+
+4.
+	Útgáfustýring eða Version control er program sem hjálpar hópi að fylgjast með breytingum 		sem hafa verið gerðar á source code yfir einhvern tíma, Git er notað því það er frítt og open 	source sem auðvelt er að nota.
+
+5.
+	Git er auðvelt og þægilegt að nota þegar maður er að læra á það. Einnig geturu séð öll gölmu 		versions af projects hvenar sem er.
+
+6.
+	Að mínu mati ættiru aðeins að gera commit þegar þú hefur gert einhverjar stórar breytingar og 	hafa þá allar littlu breytingarnar með því. Þá ertu ekki alltaf að gera commits og hefur 		betra skipulag á því finnst mér.
+
+7.
+	Working directory er directory-ið sem heldur source code-inum undir GIT stjórn eftir að maður 	er búinn að commita það.
+	Staging area er þegar þú ert búinn að breyta kóðanum en átt eftir að commita það inn á GIT.
+	Repository er það sem kóðinn er geymdur í eftir að maður hefur sett hann inn á GIT.
+
+8.
+	Greinar eða branches eru hentugar þegar þú villt athuga hvort eitthvað virki en ekki stofna 		kóðanum í hættu.
