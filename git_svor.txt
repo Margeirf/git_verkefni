@@ -32,7 +32,4 @@
 	Working directory er directory-ið sem heldur source code-inum undir GIT stjórn eftir að maður 	er búinn að commita það.
 	Staging area er þegar þú ert búinn að breyta kóðanum en átt eftir að commita það inn á GIT.
 	Repository er það sem kóðinn er geymdur í eftir að maður hefur sett hann inn á GIT.
-
-8.
-	Greinar eða branches eru hentugar þegar þú villt athuga hvort eitthvað virki en ekki stofna 		kóðanum í hættu.
  
