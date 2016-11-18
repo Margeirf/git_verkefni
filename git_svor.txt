@@ -24,3 +24,6 @@
 
 5.
 	Git er auðvelt og þægilegt að nota þegar maður er að læra á það. Einnig geturu séð öll gölmu 		versions af projects hvenar sem er.
+
+6.
+	Að mínu mati ættiru aðeins að gera commit þegar þú hefur gert einhverjar stórar breytingar og 	hafa þá allar littlu breytingarnar með því. Þá ertu ekki alltaf að gera commits og hefur 		betra skipulag á því finnst mér.
