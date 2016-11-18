@@ -13,3 +13,8 @@
 	c. git status er notað til þess að sýna vinnandi tree status.
 	d. git diff er notað til að sýna breytur á milli commits, commit og working tree.
 	e. git checkout er notað til þess að skipta um branchess eða restora working tree files.
+
+3.
+	a. git diff er notað til að sýna breytur á milli commits, commit og working tree.
+	b. git diff --staged er notað til þess að sýna muninn á files sem er búið að stage-a bæði 		fyrir og eftir það var stage-að.
+	c. git diff commit1 commit2 er notað til að sjá muninn á 1 og 2.
