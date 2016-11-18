@@ -21,3 +21,6 @@
 
 4.
 	Útgáfustýring eða Version control er program sem hjálpar hópi að fylgjast með breytingum 		sem hafa verið gerðar á source code yfir einhvern tíma, Git er notað því það er frítt og open 	source sem auðvelt er að nota.
+
+5.
+	Git er auðvelt og þægilegt að nota þegar maður er að læra á það. Einnig geturu séð öll gölmu 		versions af projects hvenar sem er.
