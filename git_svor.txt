@@ -18,3 +18,6 @@
 	a. git diff er notað til að sýna breytur á milli commits, commit og working tree.
 	b. git diff --staged er notað til þess að sýna muninn á files sem er búið að stage-a bæði 		fyrir og eftir það var stage-að.
 	c. git diff commit1 commit2 er notað til að sjá muninn á 1 og 2.
+
+4.
+	Útgáfustýring eða Version control er program sem hjálpar hópi að fylgjast með breytingum 		sem hafa verið gerðar á source code yfir einhvern tíma, Git er notað því það er frítt og open 	source sem auðvelt er að nota.
